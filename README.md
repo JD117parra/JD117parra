@@ -23,9 +23,9 @@ Trabajo con React, Node.js y MongoDB para construir aplicaciones web modernas y 
 
 | Proyecto                                                                  | Descripción                                                        | Tech Stack                                    |
 |---------------------------------------------------------------------------|--------------------------------------------------------------------|-----------------------------------------------|
-| [Portafolio Personal](https://github.com/JD117parra/portfolio-webpage)    | Sitio web responsivo que muestra mi perfil y proyectos.           | HTML, CSS, JavaScript, Swiper                  |
-| [ToDo App Full-Stack](https://github.com/JD117parra/check-app-fullstack)   | Aplicación de tareas con autenticación, desplegada en Vercel/Railway. | React, Node.js, MongoDB, JWT                   |
-| [Personal Finance App](https://github.com/JD117parra/personal-finance-app) | Dashboard de finanzas personales con filtros y gráficas.           | React, Chart.js, Firebase                      |
+| [Portafolio Personal](https://github.com/JD117parra/Portfolio.git)    | Sitio web responsivo que muestra mi perfil y proyectos.           | HTML, CSS, JavaScript, Swiper                  |
+| [ToDo App Full-Stack](https://github.com/JD117parra/check-app-fullstack.git)   | Aplicación de tareas con autenticación, desplegada en Vercel/Railway. | React, Node.js, MongoDB, JWT                   |
+| [Personal Finance App](https://github.com/JD117parra/personal-finance-app.git) | Dashboard de finanzas personales con filtros y gráficas.           | React, Chart.js, Firebase                      |
 | [Focuslife-App](https://github.com/JD117parra/focuslife-app)               | Proyecto en progreso para gestionar hábitos y productividad.       | React, Tailwind CSS                            |
 
 ---
@@ -41,13 +41,13 @@ Trabajo con React, Node.js y MongoDB para construir aplicaciones web modernas y 
 
 ## 📫 ¿Cómo contactarme?
 <p>
-  <a href="www.linkedin.com/in/juan-parra-2358b428b" target="_blank">
+  <a href="https://www.linkedin.com/in/juan-parra-2358b428b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:JhonParra117@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://jd117parra.github.io" target="_blank">
+  <a href="https://github.com/JD117parra" target="_blank">
     <img src="https://img.shields.io/badge/Portafolio-Web-orange?logo=github&logoColor=white" alt="Portafolio"/>
   </a>
 </p>
