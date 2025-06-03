@@ -47,7 +47,7 @@ Trabajo con React, Node.js y MongoDB para construir aplicaciones web modernas y 
   <a href="mailto:JhonParra117@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://jd117parra.github.io/Portfolio/" target="_blank">
+  <a href="https://jd117parra.github.io/Portfolio/profile.html" target="_blank">
     <img src="https://img.shields.io/badge/Portafolio-Web-orange?logo=github&logoColor=white" alt="Portafolio"/>
   </a>
 </p>
