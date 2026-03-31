@@ -1,36 +1,56 @@
 # 👋 ¡Hola! Soy **J.D. Parra**
 
-**Full-Stack Developer** 🇨🇴  
-Trabajo con React, Node.js y MongoDB para construir aplicaciones web modernas y escalables.
+**Full-Stack Developer & Microsoft Consultant** 🇨🇴  
+Desarrollo aplicaciones web modernas con React, Next.js y Node.js, y ayudo a empresas a potenciar su productividad con el ecosistema Microsoft: Azure, Microsoft 365, Power Platform y Entra ID.
 
 ---
 
 ### 🛠️ Mi Stack
+
+**Desarrollo**
 <div>
-  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-17.0.2-blue?logo=react&logoColor=white" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-14.17.0-green?logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/MongoDB-4.4.6-47A248?logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" alt="Prisma"/>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"/>
+</div>
+
+**Microsoft**
+<div>
+  <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/Microsoft_365-D83B01?logo=microsoft&logoColor=white" alt="Microsoft 365"/>
+  <img src="https://img.shields.io/badge/Power_Platform-742774?logo=powerapps&logoColor=white" alt="Power Platform"/>
+  <img src="https://img.shields.io/badge/Entra_ID-0078D4?logo=microsoftazure&logoColor=white" alt="Entra ID"/>
+</div>
+
+---
+
+### 🏅 Certificaciones Microsoft
+
+<div>
+  <img src="https://img.shields.io/badge/AZ--900-Azure_Fundamentals-0078D4?logo=microsoftazure&logoColor=white" alt="AZ-900"/>
+  <img src="https://img.shields.io/badge/MS--900-Microsoft_365_Fundamentals-D83B01?logo=microsoft&logoColor=white" alt="MS-900"/>
+  <img src="https://img.shields.io/badge/SC--900-Security_Fundamentals-5E5E5E?logo=microsoftazure&logoColor=white" alt="SC-900"/>
+  <img src="https://img.shields.io/badge/AI--900-AI_Fundamentals-00BCF2?logo=microsoftazure&logoColor=white" alt="AI-900"/>
 </div>
 
 ---
 
 ## ⭐ Proyectos Destacados
 
-| Proyecto                                                                  | Descripción                                                        | Tech Stack                                    |
-|---------------------------------------------------------------------------|--------------------------------------------------------------------|-----------------------------------------------|
-| [Portafolio Personal](https://github.com/JD117parra/Portfolio.git)    | Sitio web responsivo que muestra mi perfil y proyectos.           | HTML, CSS, JavaScript, Swiper                  |
-| [ToDo App Full-Stack](https://github.com/JD117parra/check-app-fullstack.git)   | Aplicación de tareas con autenticación, desplegada en Vercel/Railway. | React, Node.js, MongoDB, JWT                   |
-| [Personal Finance App](https://github.com/JD117parra/personal-finance-app.git) | Dashboard de finanzas personales con filtros y gráficas.           | React, Chart.js, Firebase                      |
-| [Focuslife-App](https://github.com/JD117parra/focuslife-app)               | Proyecto en progreso para gestionar hábitos y productividad.       | React, Tailwind CSS                            |
+| Proyecto | Descripcion | Tech Stack |
+|----------|-------------|------------|
+| [FocusLife App](https://github.com/JD117parra/focuslife-app) | App completa de productividad: habitos, tareas y finanzas personales. Desplegada en [focuslife-app.vercel.app](https://focuslife-app.vercel.app) | Next.js, TypeScript, Tailwind CSS, Prisma, PostgreSQL |
+| [Portafolio Personal](https://jd117parra.github.io/Portfolio/) | Portafolio profesional que muestra mis servicios de desarrollo web y consultoria Microsoft. | HTML, CSS, JavaScript |
 
 ---
 
-## 📊 Mis Estadísticas de GitHub
+## 📊 Mis Estadisticas de GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JD117parra&show_icons=true&theme=default&line_height=27" alt="GitHub Stats" />
@@ -39,7 +59,7 @@ Trabajo con React, Node.js y MongoDB para construir aplicaciones web modernas y 
 
 ---
 
-## 📫 ¿Cómo contactarme?
+## 📫 ¿Como contactarme?
 <p>
   <a href="https://www.linkedin.com/in/juan-parra-2358b428b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -47,7 +67,7 @@ Trabajo con React, Node.js y MongoDB para construir aplicaciones web modernas y 
   <a href="mailto:JhonParra117@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://jd117parra.github.io/Portfolio/profile.html" target="_blank">
+  <a href="https://jd117parra.github.io/Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portafolio-Web-orange?logo=github&logoColor=white" alt="Portafolio"/>
   </a>
 </p>
