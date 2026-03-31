@@ -53,8 +53,8 @@ Desarrollo aplicaciones web modernas con React, Next.js y Node.js, y ayudo a emp
 ## 📊 Mis Estadisticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JD117parra&show_icons=true&theme=default&line_height=27" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JD117parra&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JD117parra&amp;show_icons=true&amp;theme=default&amp;line_height=27" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JD117parra&amp;layout=compact&amp;theme=default" alt="Top Languages" />
 </p>
 
 ---
